@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">bankingapps</string>
+    <string name="judul">SELAMAT DATANG</string>
+    <string name="subjudul">Daftar Untuk Membuat Akun</string>
+    <string name="masuk">Masuk</string>
+    <string name="daftar">Daftar Akun</string>
+
+</resources>
